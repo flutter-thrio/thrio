@@ -1,6 +1,6 @@
 # ![thrio logo](./doc/imgs/thrio.png)
 
-本仓库不在维护，可移步新仓库 https://github.com/flutter-thrio/flutter_thrio 
+本仓库不再维护，可移步新仓库 https://github.com/flutter-thrio/flutter_thrio 
 
 [中文文档](./doc/Feature.md) [问题集](./doc/Questions.md) QQ 群号码：1014085473
 
