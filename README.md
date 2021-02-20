@@ -1,6 +1,6 @@
 # ![thrio logo](./doc/imgs/thrio.png)
 
-[![Gitter Channel][]][gitter badge] [![pub package](https://img.shields.io/pub/v/thrio.svg)](https://pub.dartlang.org/packages/thrio) [![license](https://img.shields.io/github/license/hellobike/thrio.svg?maxAge=2592000)](https://github.com/hellobike/thrio/LICENSE)
+本仓库不在维护，可移步新仓库 https://github.com/flutter-thrio/flutter_thrio 
 
 [中文文档](./doc/Feature.md) [问题集](./doc/Questions.md) QQ 群号码：1014085473
 
